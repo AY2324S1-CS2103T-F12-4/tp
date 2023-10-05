@@ -14,8 +14,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](https://github.com/howenc)]
 [[portfolio](team/howenc.md)]
 
-* Role: 
-* Responsibilities:
+* Role: In charge of code quality and overall coordination
 
 ### Huang Jia Can (Jason)
 
@@ -24,8 +23,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](http://github.com/jason-raiin)]
 [[portfolio](team/jason-raiin.md)]
 
-* Role:
-* Responsibilities: 
+* Role: In charge of the Logic component
 
 ### Hwang Qi Zhen
 
@@ -34,8 +32,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 [[github](http://github.com/qz1004)] [[portfolio](team/qz1004.md)]
 
-* Role:
-* Responsibilities:
+* Role: In charge of the Model component
 
 ### Justin Soong Yoong Kai
 
@@ -44,8 +41,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](http://github.com/juzzztinsoong)]
 [[portfolio](team/juzzztinsoong.md)]
 
-* Role:
-* Responsibilities:
+* Role: In charge of the Storage component
 
 ### Linus Lee
 
@@ -54,5 +50,4 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](http://github.com/LoMaply)]
 [[portfolio](team/LoMaply.md)]
 
-* Role:
-* Responsibilities:
+* Role: In charge of the UI component
