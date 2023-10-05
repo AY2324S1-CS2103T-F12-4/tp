@@ -9,48 +9,50 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Cheong Howen
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/howenc.png" width="200px">
 
 [[github](https://github.com/howenc)]
 [[portfolio](team/howenc.md)]
 
-* Role: Project Advisor
+* Role: 
+* Responsibilities:
 
 ### Huang Jia Can (Jason)
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/jason-raiin.png" width="200px">
 
 [[github](http://github.com/jason-raiin)]
 [[portfolio](team/jason-raiin.md)]
 
-* Role: Team Lead
-* Responsibilities: UI
+* Role:
+* Responsibilities: 
 
 ### Hwang Qi Zhen
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/qz1004.png" width="200px">
+
 
 [[github](http://github.com/qz1004)] [[portfolio](team/qz1004.md)]
 
-* Role: Developer
-* Responsibilities: Data
+* Role:
+* Responsibilities:
 
 ### Justin Soong Yoong Kai
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/juzzztinsoong.png" width="200px">
 
 [[github](http://github.com/juzzztinsoong)]
 [[portfolio](team/juzzztinsoong.md)]
 
-* Role: Developer
-* Responsibilities: Dev Ops + Threading
+* Role:
+* Responsibilities:
 
 ### Linus Lee
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/LoMaply.png" width="200px">
 
 [[github](http://github.com/LoMaply)]
 [[portfolio](team/LoMaply.md)]
 
-* Role: Developer
-* Responsibilities: UI
+* Role:
+* Responsibilities:
