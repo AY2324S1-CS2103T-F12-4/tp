@@ -51,3 +51,4 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[portfolio](team/LoMaply.md)]
 
 * Role: In charge of the UI component
+
